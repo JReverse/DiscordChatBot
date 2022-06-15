@@ -12,7 +12,7 @@ DiscordChatBot is powered by Anarchy This means for some reason if that gets pat
 - Token Support
 
 # Development roadmap [❌] = In progress [✔️] = Done
-- UI [❌]
+- UI [✔️]
 - Extended Logging [❌]
 - Token Support  [❌]
 - Async [❌]
